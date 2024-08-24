@@ -1,4 +1,5 @@
 # car-sales_dashboard1
+![Screenshot 2024-08-24 151620](https://github.com/user-attachments/assets/b535677b-4c1c-43a7-87e6-2d13678afb67)
 
  "Car Sales Dashboard" that includes various visualizations summarizing car sales data. Here is an analysis of the dashboard:
 
@@ -27,4 +28,4 @@
    - Brands like Mercedes-Benz seem to use a higher proportion of diesel, while other brands have a mix of fuel types.
 
 Overall, this dashboard provides a comprehensive overview of car sales, including aspects like selling prices, seating capacities, kilometers driven, sales by brand, seller types, and fuel usage. It can help in identifying trends and making data-driven decisions in the automotive sector.
-![Screenshot 2024-08-24 151620](https://github.com/user-attachments/assets/b535677b-4c1c-43a7-87e6-2d13678afb67)
+
