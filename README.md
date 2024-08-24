@@ -8,7 +8,7 @@
 
 2. *Seats Available in Brands (Top Center Pie Chart)*:
    - This pie chart highlights the distribution of different seating capacities in cars.
-   - The chart indicates a dominant number for cars with 7 seats, followed by other capacities (2, 5, 6, and 8 seats).
+   - The chart indicates a dominant number for cars with 7 seats, followed by other capacities (2, 5, 6, and 8 seats) in mahindhra brand cars.
 
 3. *Cars Sold by Each Brand Year Wise (Top Right Bar Chart)*:
    - This bar chart visualizes the total number of cars sold by different brands over several years.
